@@ -10,7 +10,11 @@ public class DisplaySimpleFigureWithJava {
         System.out.println("* | | | | | *");
     }
 }
-
+public static void stars() {
+    System.out.println("    *****    ");
+    System.out.println("  *********  ");
+    System.out.println("*************");
+}
 
 
 
